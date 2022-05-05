@@ -4,7 +4,6 @@ version: '0.1'
 config-version: 2
 profile: 'dbt_nft_metadata'
 
-models:
+seeds:
   dbt_nft_metadata:
-    example:
-      +materialized: view
+    +schema: nft_metadata
