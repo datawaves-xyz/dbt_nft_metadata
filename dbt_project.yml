@@ -1,0 +1,10 @@
+
+name: 'dbt_nft_metadata'
+version: '0.1'
+config-version: 2
+profile: 'dbt_nft_metadata'
+
+models:
+  dbt_nft_metadata:
+    example:
+      +materialized: view

@@ -1,0 +1,7 @@
+alchemy:
+  api_key:
+    IURyrlsn6K7TCqOHzm_-bKq9nMOCLLZH
+
+projects:
+  - name: cryptocoven
+    address: '0x5180db8f5c931aae63c74266b211f580155ecac8'
